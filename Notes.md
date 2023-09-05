@@ -1,3 +1,7 @@
+To do :
+- Custom Repository
+- @Transactional
+------------------------------------------------------
 If you are looking to load your full application configuration, but use an embedded database, you should consider `@SpringBootTest` combined with `@AutoConfigureTestDatabase` rather than `@DataJpaTest`.
 
 ------------------------------------------------------
